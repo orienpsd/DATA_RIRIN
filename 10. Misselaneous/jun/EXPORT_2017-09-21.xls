@@ -1,0 +1,1030 @@
+<head>
+	<title>HISTORI PEMBAYARAN</title>
+<style type="text/css">
+@media all {
+	.page-break	{ display: none; }
+}
+
+@media print {
+ @page{
+	 size: auto;
+	 margin: 0,2cm;
+ }
+  body * {
+    visibility: hidden;
+  }
+  
+  #section-to-print1, #section-to-print1 * {
+    visibility: visible;
+  }
+  #section-to-print1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  #section-to-print2, #section-to-print2 * {
+    visibility: visible;
+  }
+  #section-to-print2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  a[href]:after{
+	  content: none !important;
+  }
+}
+</style>
+</head>
+
+
+	<p align="right"><a href="#" class="btn btn-theme02 btn-xs" onclick="javascript:myFunction1();"><i class="fa fa-print"></i> Cetak</a>
+	<a href="cetak-historiexport.php?pilihkasir=kasir&tglawal=2017-09-18&tglakhir=2017-09-21&pilihjenis=jenis" class="btn btn-success btn-xs" target="_blank"><i class="fa fa-table"></i> Simpan di Excel</a></p>
+<div id="section-to-print1">
+	<div class="row">
+		<div class="col-lg-12">
+					<br>
+					<p align="left">Diproses tanggal 20-09-2017 pada pukul 16:28:29</p>
+					<center><h2>HISTORI PEMBAYARAN</h2>
+					<p>Dari Tanggal 18 September 2017 Sampai 21 September 2017</p></center>
+					
+					<table class="table table-striped table-hover" width="100%">
+					<tr class="success">
+						<th colspan="7">PEMBAYARAN BIAYA PENDIDIKAN PROFESI</th>
+					</tr>
+										<tr class="info">
+						<th>No.</th>
+						<th>Tanggal</th>
+						<th>BTK</th>
+						<th>BTB</th>						
+						<th>Keterangan</th>
+						<th>Kasir</th>
+						<th>Jumlah Bayar</th>
+					</tr>
+					
+												<tr>
+								<td>1</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704262">42383</a></td>
+								<!--<td>42383</td>-->
+								<td></td>
+								<td>Pembayaran Ropi Rahayuni kelas BA 10 untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 750.000</td>
+							</tr>
+														<tr>
+								<td>2</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704263">42384</a></td>
+								<!--<td>42384</td>-->
+								<td></td>
+								<td>Pembayaran Suci Soraya kelas KA 15 A untuk Cic ke-3; </td>
+								<td>Nijar Kurnia Romdoni, A.Md</td>
+								<td align="right">Rp. 950.000</td>
+							</tr>
+														<tr>
+								<td>3</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704264">42385</a></td>
+								<!--<td>42385</td>-->
+								<td></td>
+								<td>Pembayaran Risma Wulandari kelas BA 11 untuk Cic ke-3; </td>
+								<td>Nijar Kurnia Romdoni, A.Md</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>4</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704265">42386</a></td>
+								<!--<td>42386</td>-->
+								<td></td>
+								<td>Pembayaran Rismawati kelas BA 10 untuk Cic ke-3; </td>
+								<td>Nijar Kurnia Romdoni, A.Md</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>5</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704266">42387</a></td>
+								<!--<td>42387</td>-->
+								<td></td>
+								<td>Pembayaran Yoga Van Gunanto kelas OM 12 B untuk Pelunasan Cic ke-3; Cic ke-4 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 450.000</td>
+							</tr>
+														<tr>
+								<td>6</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704267">42388</a></td>
+								<!--<td>42388</td>-->
+								<td></td>
+								<td>Pembayaran Rifki Maulana kelas TO 17 A untuk Cic ke-1; Cic ke-2; Cic ke-3; Cic ke-4; Cic ke-5; Cic ke-6 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 5.000.000</td>
+							</tr>
+														<tr>
+								<td>7</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704268">42389</a></td>
+								<!--<td>42389</td>-->
+								<td></td>
+								<td>Pembayaran Jelvina Nurrantina Sihombing kelas KA 14 B untuk Pelunasan Registrasi; Cic ke-1; Cic ke-2 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 994.000</td>
+							</tr>
+														<tr>
+								<td>8</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704269">42390</a></td>
+								<!--<td>42390</td>-->
+								<td></td>
+								<td>Pembayaran Iis Laila Saripah kelas BA 10 untuk Pelunasan Cic ke-3; Cic ke-4 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>9</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704270">42391</a></td>
+								<!--<td>42391</td>-->
+								<td></td>
+								<td>Pembayaran Ilham Syarifudin kelas TO 17 B untuk Cic ke-1; Cic ke-2; Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.280.000</td>
+							</tr>
+														<tr>
+								<td>10</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704271">42392</a></td>
+								<!--<td>42392</td>-->
+								<td></td>
+								<td>Pembayaran Dina Mardiana kelas OM 13 C untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 620.000</td>
+							</tr>
+														<tr>
+								<td>11</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704272">42393</a></td>
+								<!--<td>42393</td>-->
+								<td></td>
+								<td>Pembayaran Ria Rahmawati kelas OM 13 C untuk Cic ke-1; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.150.000</td>
+							</tr>
+														<tr>
+								<td>12</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704274">42395</a></td>
+								<!--<td>42395</td>-->
+								<td></td>
+								<td>Pembayaran Resa Rismala kelas KA 14 A untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>13</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704275">42396</a></td>
+								<!--<td>42396</td>-->
+								<td></td>
+								<td>Pembayaran Silpa Laula kelas KA 14 A untuk Pelunasan Registrasi; Cic ke-1; Cic ke-2 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.600.000</td>
+							</tr>
+														<tr>
+								<td>14</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704276">42397</a></td>
+								<!--<td>42397</td>-->
+								<td></td>
+								<td>Pembayaran Hani Anjani kelas KA 14 A untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>15</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704277">42398</a></td>
+								<!--<td>42398</td>-->
+								<td></td>
+								<td>Pembayaran Ceci Ruhyati kelas KA 15 A untuk Pelunasan Cic ke-3; Cic ke-4 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>16</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704278">42399</a></td>
+								<!--<td>42399</td>-->
+								<td></td>
+								<td>Pembayaran Tari Mustari kelas KA 15 A untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>17</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704279">42400</a></td>
+								<!--<td>42400</td>-->
+								<td></td>
+								<td>Pembayaran Yusi Salsabila kelas OM 13 C untuk Cic ke-3; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 950.000</td>
+							</tr>
+														<tr>
+								<td>18</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704280">42401</a></td>
+								<!--<td>42401</td>-->
+								<td></td>
+								<td>Pembayaran Riska Mustikasari kelas OM 13 C untuk Cic ke-1; Cic ke-2; Cic ke-3; Cic ke-4 (sebagian); </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 2.700.000</td>
+							</tr>
+														<tr>
+								<td>19</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704281">42402</a></td>
+								<!--<td>42402</td>-->
+								<td></td>
+								<td>Pembayaran Tresia Adeliasari kelas OM 13 C untuk Cic ke-2; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>20</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704282">42403</a></td>
+								<!--<td>42403</td>-->
+								<td></td>
+								<td>Pembayaran Yuli Yulianti kelas OM 13 B untuk Cic ke-2; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 950.000</td>
+							</tr>
+														<tr>
+								<td>21</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704283">42404</a></td>
+								<!--<td>42404</td>-->
+								<td></td>
+								<td>Pembayaran Yani Wantika kelas BA 11 untuk Pelunasan Cic ke-4; Cic ke-5 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 700.000</td>
+							</tr>
+														<tr>
+								<td>22</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704284">42405</a></td>
+								<!--<td>42405</td>-->
+								<td></td>
+								<td>Pembayaran Acef Ibnu Azis kelas IK 17 A untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.020.000</td>
+							</tr>
+														<tr>
+								<td>23</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704286">42407</a></td>
+								<!--<td>42407</td>-->
+								<td></td>
+								<td>Pembayaran Sindi Novia kelas BA 11 untuk Cic ke-3 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 500.000</td>
+							</tr>
+														<tr>
+								<td>24</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704288">42409</a></td>
+								<!--<td>42409</td>-->
+								<td></td>
+								<td>Pembayaran Muhammad Nizar Fahrizal kelas OM 13 A untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>25</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704289">42410</a></td>
+								<!--<td>42410</td>-->
+								<td></td>
+								<td>Pembayaran Dhiya Siti Saodah kelas OM 13 A untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>26</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704290">42411</a></td>
+								<!--<td>42411</td>-->
+								<td></td>
+								<td>Pembayaran Rama Triana kelas BA 11 untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>27</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704291">42412</a></td>
+								<!--<td>42412</td>-->
+								<td></td>
+								<td>Pembayaran Raden Muhamad Irsyad Taufik kelas IK 17 B untuk Cic ke-4; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>28</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704293">42414</a></td>
+								<!--<td>42414</td>-->
+								<td></td>
+								<td>Pembayaran Ryan Awaludin kelas IK 17 A untuk Cic ke-1; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.150.000</td>
+							</tr>
+														<tr>
+								<td>29</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704294">42415</a></td>
+								<!--<td>42415</td>-->
+								<td></td>
+								<td>Pembayaran Ratna Hidayanti kelas KA 15 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>30</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704295">42416</a></td>
+								<!--<td>42416</td>-->
+								<td></td>
+								<td>Pembayaran Azis Ginanjar kelas OM 13 B untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>31</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704296">42417</a></td>
+								<!--<td>42417</td>-->
+								<td></td>
+								<td>Pembayaran Deris Rismawan kelas OM 13 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>32</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704298">42418</a></td>
+								<!--<td>42418</td>-->
+								<td></td>
+								<td>Pembayaran Sherin Surya Melinda kelas OM 13 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 950.000</td>
+							</tr>
+														<tr>
+								<td>33</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704299">42419</a></td>
+								<!--<td>42419</td>-->
+								<td></td>
+								<td>Pembayaran Mita Puspita Dewi kelas BA 11 untuk Pelunasan Cic ke-4; Cic ke-5 (sebagian); </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 850.000</td>
+							</tr>
+														<tr>
+								<td>34</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704300">42420</a></td>
+								<!--<td>42420</td>-->
+								<td></td>
+								<td>Pembayaran ARI AGUS ADIPUTRA kelas OM 13 A untuk Cic ke-4; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 500.000</td>
+							</tr>
+														<tr>
+								<td>35</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704301">42421</a></td>
+								<!--<td>42421</td>-->
+								<td></td>
+								<td>Pembayaran Aditia Lukmanul Hakim kelas BA 11 untuk Cic ke-6; Cic ke-7; Cic ke-8; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 2.400.000</td>
+							</tr>
+														<tr>
+								<td>36</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704302">42422</a></td>
+								<!--<td>42422</td>-->
+								<td></td>
+								<td>Pembayaran Kusriyati Yanti kelas BA 11 untuk Pelunasan Cic ke-2; Cic ke-3 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>37</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704303">42423</a></td>
+								<!--<td>42423</td>-->
+								<td></td>
+								<td>Pembayaran Fahmy Rijalul kelas TO 17 A untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>38</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704304">42424</a></td>
+								<!--<td>42424</td>-->
+								<td></td>
+								<td>Pembayaran Radhi Jalaludin Nadzir kelas OM 12 B untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 550.000</td>
+							</tr>
+														<tr>
+								<td>39</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704306">42426</a></td>
+								<!--<td>42426</td>-->
+								<td></td>
+								<td>Pembayaran Jazmanudin kelas IK 16 untuk Cic ke-2; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>40</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704307">42427</a></td>
+								<!--<td>42427</td>-->
+								<td></td>
+								<td>Pembayaran Rian Abdunnuri kelas TO 17 B untuk Cic ke-5; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 750.000</td>
+							</tr>
+														<tr>
+								<td>41</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704308">42428</a></td>
+								<!--<td>42428</td>-->
+								<td></td>
+								<td>Pembayaran Dandi Setiadi kelas IK 17 A untuk Cic ke-1; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 5.000.000</td>
+							</tr>
+														<tr>
+								<td>42</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704310">42429</a></td>
+								<!--<td>42429</td>-->
+								<td></td>
+								<td>Pembayaran Anisa Karmila Sarah kelas OM 13 A untuk Registrasi; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.500.000</td>
+							</tr>
+														<tr>
+								<td>43</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704311">42430</a></td>
+								<!--<td>42430</td>-->
+								<td></td>
+								<td>Pembayaran Wildan Arif Pratama  kelas TO 16 B untuk Registrasi (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 350.000</td>
+							</tr>
+														<tr>
+								<td>44</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704312">42431</a></td>
+								<!--<td>42431</td>-->
+								<td></td>
+								<td>Pembayaran Diky Irawan  kelas TO 16 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>45</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704315">42434</a></td>
+								<!--<td>42434</td>-->
+								<td></td>
+								<td>Pembayaran Raden Muhammad Yazid Zidane Muharam kelas OM 12 A untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 300.000</td>
+							</tr>
+														<tr>
+								<td>46</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704316">42435</a></td>
+								<!--<td>42435</td>-->
+								<td></td>
+								<td>Pembayaran Muhamad Faisal Wajdi kelas IK 16 untuk Registrasi (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 700.000</td>
+							</tr>
+														<tr>
+								<td>47</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704317">42436</a></td>
+								<!--<td>42436</td>-->
+								<td></td>
+								<td>Pembayaran Hendi kelas TO 16 B untuk Cic ke-1; Cic ke-2; Cic ke-3; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 2.400.000</td>
+							</tr>
+														<tr>
+								<td>48</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704318">42437</a></td>
+								<!--<td>42437</td>-->
+								<td></td>
+								<td>Pembayaran Susi Apriliani kelas KA 15 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 950.000</td>
+							</tr>
+														<tr>
+								<td>49</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704319">42438</a></td>
+								<!--<td>42438</td>-->
+								<td></td>
+								<td>Pembayaran Acep Ridwan Fauzi kelas IK 17 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>50</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704320">42439</a></td>
+								<!--<td>42439</td>-->
+								<td></td>
+								<td>Pembayaran Neng Sri Rahmawati kelas BA 11 untuk Registrasi (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>51</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704321">42440</a></td>
+								<!--<td>42440</td>-->
+								<td></td>
+								<td>Pembayaran Sinta Tresna Dewi kelas KA 14 B untuk Pelunasan Registrasi; Cic ke-1 (sebagian); </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 2.100.000</td>
+							</tr>
+														<tr>
+								<td>52</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704322">42441</a></td>
+								<!--<td>42441</td>-->
+								<td></td>
+								<td>Pembayaran Feni Noviana kelas BA 11 untuk Cic ke-3; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>53</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704323">42442</a></td>
+								<!--<td>42442</td>-->
+								<td></td>
+								<td>Pembayaran Andi Trianto kelas KA 14 B untuk Cic ke-3; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>54</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704324">42443</a></td>
+								<!--<td>42443</td>-->
+								<td></td>
+								<td>Pembayaran Arief Tatang Maruf kelas TO 17 A untuk Cic ke-2; Cic ke-3; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 2.000.000</td>
+							</tr>
+														<tr>
+								<td>55</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704325">42444</a></td>
+								<!--<td>42444</td>-->
+								<td></td>
+								<td>Pembayaran Iwan Kurniawan kelas OM 12 A untuk Pelunasan Cic ke-2; Cic ke-3; </td>
+								<td>Nijar Kurnia Romdoni, A.Md</td>
+								<td align="right">Rp. 1.650.000</td>
+							</tr>
+														<tr>
+								<td>56</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704328">42447</a></td>
+								<!--<td>42447</td>-->
+								<td></td>
+								<td>Pembayaran Hilman Maulana kelas OM 12 B untuk Cic ke-3; </td>
+								<td>Nijar Kurnia Romdoni, A.Md</td>
+								<td align="right">Rp. 800.000</td>
+							</tr>
+														<tr>
+								<td>57</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704329">42448</a></td>
+								<!--<td>42448</td>-->
+								<td></td>
+								<td>Pembayaran Ricy Nur Cahyo kelas KA 15 A untuk Cic ke-1; Cic ke-2; Cic ke-3; Cic ke-4; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 3.000.000</td>
+							</tr>
+														<tr>
+								<td>58</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704330">42449</a></td>
+								<!--<td>42449</td>-->
+								<td></td>
+								<td>Pembayaran Tina Siti Mulyana kelas KA 15 A untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>59</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704331">42450</a></td>
+								<!--<td>42450</td>-->
+								<td></td>
+								<td>Pembayaran Fanny Ainayya Nursifa kelas KA 14 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 950.000</td>
+							</tr>
+														<tr>
+								<td>60</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704332">42451</a></td>
+								<!--<td>42451</td>-->
+								<td></td>
+								<td>Pembayaran Faizal Ginanjar kelas IK 16 untuk Cic ke-3; Cic ke-4; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.500.000</td>
+							</tr>
+														<tr>
+								<td>61</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704333">42452</a></td>
+								<!--<td>42452</td>-->
+								<td></td>
+								<td>Pembayaran Hamka Rifaldi kelas IK 16 untuk Pelunasan Registrasi; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.000.000</td>
+							</tr>
+														<tr>
+								<td>62</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704334">42453</a></td>
+								<!--<td>42453</td>-->
+								<td></td>
+								<td>Pembayaran Tian Septiawan kelas IK 16 untuk Registrasi (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 500.000</td>
+							</tr>
+														<tr>
+								<td>63</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704336">42455</a></td>
+								<!--<td>42455</td>-->
+								<td></td>
+								<td>Pembayaran Fenti Desminta kelas BA 11 untuk Cic ke-1; Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.000.000</td>
+							</tr>
+														<tr>
+								<td>64</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704337">1_Pot Voucher</a></td>
+								<!--<td>1_Pot Voucher</td>-->
+								<td></td>
+								<td>Pembayaran Sofi Miftahul Munir kelas OM 13 C untuk Cic ke-1 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 500.000</td>
+							</tr>
+														<tr>
+								<td>65</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704340">42458</a></td>
+								<!--<td>42458</td>-->
+								<td></td>
+								<td>Pembayaran Ade Eqi Nurzaqi kelas KA 15 A untuk Cic ke-1; Cic ke-2 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 3.000.000</td>
+							</tr>
+														<tr>
+								<td>66</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704341">42459</a></td>
+								<!--<td>42459</td>-->
+								<td></td>
+								<td>Pembayaran Sopyan Sauri kelas IK 17 A untuk Cic ke-2; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 480.000</td>
+							</tr>
+														<tr>
+								<td>67</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704342">42460</a></td>
+								<!--<td>42460</td>-->
+								<td></td>
+								<td>Pembayaran Ari Rinaldy kelas IK 17 B untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 950.000</td>
+							</tr>
+														<tr>
+								<td>68</td>
+								<td>21/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704343">42461</a></td>
+								<!--<td>42461</td>-->
+								<td></td>
+								<td>Pembayaran Dede Tia kelas KA 14 A untuk Registrasi (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>69</td>
+								<td>21/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704344">42462</a></td>
+								<!--<td>42462</td>-->
+								<td></td>
+								<td>Pembayaran Sofi Miftahul Munir kelas OM 13 C untuk Pelunasan Cic ke-1; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 650.000</td>
+							</tr>
+														<tr>
+								<td>70</td>
+								<td>21/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704345">42463</a></td>
+								<!--<td>42463</td>-->
+								<td></td>
+								<td>Pembayaran Afif Miftahul Fauz kelas OM 13 C untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 625.000</td>
+							</tr>
+														<tr>
+								<td>71</td>
+								<td>21/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704347">42465</a></td>
+								<!--<td>42465</td>-->
+								<td></td>
+								<td>Pembayaran Aulia Ningsih kelas OM 12 A untuk Pelunasan Cic ke-2; Cic ke-3 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 850.000</td>
+							</tr>
+														<tr>
+								<td>72</td>
+								<td>21/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704348">42466</a></td>
+								<!--<td>42466</td>-->
+								<td></td>
+								<td>Pembayaran Bella Prilia Hania kelas OM 12 A untuk Pelunasan Cic ke-2; Cic ke-3 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.000.000</td>
+							</tr>
+														<tr>
+								<td>73</td>
+								<td>21/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704349">42467</a></td>
+								<!--<td>42467</td>-->
+								<td></td>
+								<td>Pembayaran Ipah Hopipah AS kelas KA 15 A untuk Registrasi; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.000.000</td>
+							</tr>
+														<tr class="info">
+								<td colspan="6" align="right"><b>JUMLAH</b></td>
+								<td align="right">Rp. 89.119.000</td>
+								
+							</tr>
+												
+					<tr class="success">
+						<th colspan="7">PEMBAYARAN BIAYA PENDIDIKAN TINGKAT III</th>
+					</tr>
+										<tr class="info">
+						<th>No.</th>
+						<th>Tanggal</th>
+						<th>BTK</th>
+						<th>BTB</th>						
+						<th>Keterangan</th>
+						<th>Kasir</th>
+						<th>Jumlah Bayar</th>
+						
+						
+					</tr>
+					
+												<tr>
+								<td>1</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704261">42382</a></td>
+								<!--<td>42382</td>-->
+								<td></td>
+								<td>Pembayaran Muhamad Fazrin Ganafi kelas AK 2 untuk Cic ke-1; Cic ke-2; Cic ke-3 (sebagian); </td>
+								<td>Nijar Kurnia Romdoni, A.Md</td>
+								<td align="right">Rp. 2.000.000</td>
+							</tr>
+														<tr>
+								<td>2</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704273">42394</a></td>
+								<!--<td>42394</td>-->
+								<td></td>
+								<td>Pembayaran Roni Nugraha kelas AK 1 untuk Cic ke-1; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 825.000</td>
+							</tr>
+														<tr>
+								<td>3</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704285">42406</a></td>
+								<!--<td>42406</td>-->
+								<td></td>
+								<td>Pembayaran Aam Nursyamsiah kelas AK 2 untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 500.000</td>
+							</tr>
+														<tr>
+								<td>4</td>
+								<td>18/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704287">42408</a></td>
+								<!--<td>42408</td>-->
+								<td></td>
+								<td>Pembayaran Fariz Muslim kelas BA 09 untuk Registrasi; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.000.000</td>
+							</tr>
+														<tr>
+								<td>5</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704292">42413</a></td>
+								<!--<td>42413</td>-->
+								<td></td>
+								<td>Pembayaran Deis Nurul Fitri kelas OM 11 C untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 550.000</td>
+							</tr>
+														<tr>
+								<td>6</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704305">42425</a></td>
+								<!--<td>42425</td>-->
+								<td></td>
+								<td>Pembayaran Yogi Ardiansyah kelas AB 16 untuk Pelunasan Pembayaran Cicilan</td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 1.650.000</td>
+							</tr>
+														<tr>
+								<td>7</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704313">42432</a></td>
+								<!--<td>42432</td>-->
+								<td></td>
+								<td>Pembayaran Wijar Putra Prayoga kelas AK 1 untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 850.000</td>
+							</tr>
+														<tr>
+								<td>8</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704314">42433</a></td>
+								<!--<td>42433</td>-->
+								<td></td>
+								<td>Pembayaran Fasyaa Ridlwansyah kelas AK 1 untuk Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 900.000</td>
+							</tr>
+														<tr>
+								<td>9</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704326">42445</a></td>
+								<!--<td>42445</td>-->
+								<td></td>
+								<td>Pembayaran Reni Anggraeni kelas OM 11 C untuk Cic ke-1; Cic ke-2; Cic ke-3; </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 2.100.000</td>
+							</tr>
+														<tr>
+								<td>10</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704327">42446</a></td>
+								<!--<td>42446</td>-->
+								<td></td>
+								<td>Pembayaran Reni Anggraeni kelas OM 11 C untuk Cic ke-4 (sebagian); </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 100.000</td>
+							</tr>
+														<tr>
+								<td>11</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704335">42454</a></td>
+								<!--<td>42454</td>-->
+								<td></td>
+								<td>Pembayaran Neta Agistiani kelas AK 1 untuk Cic ke-1; Cic ke-2; Cic ke-3; </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.100.000</td>
+							</tr>
+														<tr>
+								<td>12</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704338">42456</a></td>
+								<!--<td>42456</td>-->
+								<td></td>
+								<td>Pembayaran Gina Agnitari kelas MJ 1 untuk Cic ke-1; Cic ke-2 (sebagian); </td>
+								<td>Roni Nugraha</td>
+								<td align="right">Rp. 1.150.000</td>
+							</tr>
+														<tr>
+								<td>13</td>
+								<td>20/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704339">42457</a></td>
+								<!--<td>42457</td>-->
+								<td></td>
+								<td>Pembayaran Fara Novelia Anisa kelas AK 2 untuk Pelunasan Cic ke-4; Cic ke-5; Cic ke-6; Cic ke-7; Cic ke-8; Cic ke-9 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 3.000.000</td>
+							</tr>
+														<tr>
+								<td>14</td>
+								<td>21/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704346">42464</a></td>
+								<!--<td>42464</td>-->
+								<td></td>
+								<td>Pembayaran Desy Septiani.S kelas MJ 1 untuk Cic ke-3; Cic ke-4 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 542.000</td>
+							</tr>
+														<tr class="info">
+								<td colspan="6" align="right"><b>JUMLAH</b></td>
+								<td align="right">Rp. 18.267.000</td>
+								
+							</tr>
+															
+					
+					<tr class="success">
+						<th colspan="7">PEMBAYARAN BIAYA PENDIDIKAN TINGKAT IV</th>
+					</tr>
+										<tr class="info">
+						<th>No.</th>
+						<th>Tanggal</th>
+						<th>BTK</th>
+						<th>BTB</th>						
+						<th>Keterangan</th>
+						<th>Kasir</th>
+						<th>Jumlah Bayar</th>
+						
+						
+					</tr>
+					
+												<tr>
+								<td>1</td>
+								<td>19/09/17</td>
+								<td><a href="cetak-kwitansi.php?id=1704309"></a></td>
+								<!--<td></td>-->
+								<td>1_BRIS</td>
+								<td>Pembayaran Silvia Wulandari kelas AK 16 untuk Pelunasan Cic ke-4; Cic ke-5; Cic ke-6; Cic ke-7 (sebagian); </td>
+								<td>Silmi Nur Addini, ST</td>
+								<td align="right">Rp. 2.500.000</td>
+							</tr>
+														<tr class="info">
+								<td colspan="6" align="right"><b>JUMLAH</b></td>
+								<td align="right">Rp. 2.500.000</td>
+								
+							</tr>
+												
+					<tr class="success">
+						<th colspan="7">PEMBAYARAN KELAS KARYAWAN</th>
+					</tr>
+					<tr><td colspan="7" align="center">Tidak ada data!</td></tr>					<tr class="success">
+						<th colspan="7">PEMBAYARAN SEWA</th>
+					</tr>
+					<tr><td colspan="7" align="center">Tidak ada data!</td></tr>					<tr class="success">
+						<th colspan="7">PEMBAYARAN PARKIR</th>
+					</tr>
+					<tr><td colspan="7" align="center">Tidak ada data!</td></tr>					<tr class="success">
+						<th colspan="7">PEMBAYARAN IHT</th>
+					</tr>
+					<tr><td colspan="7" align="center">Tidak ada data!</td></tr>					<tr class="success">
+						<th colspan="7">PEMBAYARAN KURSUS</th>
+					</tr>
+					<tr><td colspan="7" align="center">Tidak ada data!</td></tr>					<tr class="success">
+						<th colspan="7">PEMBAYARAN LAIN-LAIN</th>
+					</tr>
+					<tr><td colspan="7" align="center">Tidak ada data!</td></tr>					<tr class="success">
+						<td colspan="6" align="right"><b>TOTAL</b></td>
+						<td align="right">Rp. 109.886.000</td>
+					</tr>
+				</table>                    
+		</div>
+
+	</div>
+</div>
+
+<script>
+	function myFunction1() {
+		 window.print();
+	}
+	function myFunction2() {
+		 window.print();
+	}
+</script>
